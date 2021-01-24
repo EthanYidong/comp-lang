@@ -1,0 +1,9 @@
+~env usaco
+
+using namespace std
+
+~main
+    int N
+    ~> N
+    ~while N < 100
+        cout << N ++
